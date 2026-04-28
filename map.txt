@@ -1,0 +1,14 @@
+Structure
+
+    body
+        -Card Container
+            -Image Container
+            -Learning Container
+            -Date Container
+            -Title Container
+            -Paragraph Container
+            -Author Container
+                -Image Container
+                -Name Container
+
+*******************************************************
