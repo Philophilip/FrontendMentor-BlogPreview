@@ -40,8 +40,7 @@ This project is a solution to the Blog Preview Card challenge. The goal was to r
 
 ## 🔗 Live Demo
 
-👉 [Add your deployed link here
-(e.g., Vercel / Netlify)](https://frontend-mentor-blog-preview-omega.vercel.app/)
+👉 https://frontend-mentor-blog-preview-omega.vercel.app/
 
 ---
 
